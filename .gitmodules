@@ -4,3 +4,6 @@
 [submodule "buildroot"]
 	path = buildroot
 	url = https://git.busybox.net/buildroot/
+[submodule "assignments-3-and-later-mpuscian"]
+	path = assignments-3-and-later-mpuscian
+	url = git@github.com:cu-ecen-aeld/assignments-3-and-later-mpuscian.git
